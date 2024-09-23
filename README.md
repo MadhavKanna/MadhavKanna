@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 # 📊 GitHub Stats:
 <!-- <img align="left" alt="Madhav's Github Stats" src="https://github-readme-stats-MadhavKanna.vercel.app//api?username=MadhavMaharaj&count_private=true" /> -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MadhavKanna&theme=cobalt)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MadhavKanna&theme=cobalt)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MadhavKanna&theme=cobalt&utcOffset=8)
 
 
