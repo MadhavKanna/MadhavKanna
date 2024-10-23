@@ -7,7 +7,6 @@ You can click the Preview link to take a look at your changes.
 
 - 🤔 &nbsp; Exploring new technologies I can build cool stuff with 💡
 - 🎓 &nbsp; Studying Computer Science(Computer Systems, AI & ML, Computer Vision) and Statistics at the University of Toronto.
-- 💼 &nbsp; Currently seeking Co-op Internship Opportunities (8 - 12 month)
 - 🌱 &nbsp; Learning more about Embedded Systems(Mbed framework), Machine Learning Algorithms, Concurrent Programming, 
 - ✍️ &nbsp; Currently working on building IoT skills to build projects at Hackathons
 
