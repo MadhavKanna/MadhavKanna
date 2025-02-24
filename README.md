@@ -1,9 +1,7 @@
 # 👋 Hey, I'm Madhav Kanna Thenappan!
 
-🚀 **Computer Science & Statistics** student at **University of Toronto**  
-💡 **Passionate about AI, IoT, full-stack development, and automation**  
-🔍 **Building real-world applications** that solve meaningful problems  
-
+🚀 **Computer Science, Stats, & Math** student at **University of Toronto**  
+💡 **Passionate about AI, IoT, full-stack mobile development**  
 ---
 
 ## 🌟 Featured Projects  
