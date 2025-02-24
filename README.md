@@ -48,8 +48,8 @@
 </p>  
 
 <p align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MadhavKanna&theme=radical" width="48%" />  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MadhavKanna&theme=radical&utcOffset=8" width="48%" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MadhavKanna" width="48%" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MadhavKanna&utcOffset=8" width="48%" />  
 </p>  
 
 ---
