@@ -15,7 +15,7 @@
 - Developed a **Wi-Fi-based game server** to support multiple controllers with seamless pairing.  
 
 ### ⏳ Kronos - Task & Habit Tracker  
-[🔗 GitHub Repo](https://github.com/CSC207-2022F-UofT/Kronos) 
+[🔗 GitHub Repo](https://github.com/CSC207-2022F-UofT/Kronos)  
 - Built using **Java and Spring**, following **SOLID principles** and clean architecture.  
 - Implements **Façade, Private Data Class, and MVP** design patterns for a modular and scalable system.  
 - Features include **Account Login, Habit Tracking, Task Categorization, Pomodoro Timer, and Data Visualization**.  
@@ -36,24 +36,21 @@
 
 **💻 Languages:** Python, Java, C/C++, TypeScript, SQL, Shell, VBA, JavaScript, HTML5, CSS3, R  
 **⚙️ Frameworks & Tools:** Firebase, Node.js, React Native Expo, PostgreSQL, MongoDB, GCP, Docker, Git, Linux  
-**📊 ML & AI:** PyTorch, NumPy, Pandas, Matplotlib, Scikit-Learn  
+**📊 Data Science & AI:** PyTorch, NumPy, Pandas, Matplotlib, Scikit-Learn  
 
 ---
 
 ## 📈 GitHub Stats  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhavKanna&show_icons=true&theme=radical" width="48%" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavKanna&theme=radical" width="48%" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=MadhavKanna&show_icons=true&locale=en&rank_icon=github&include_all_commits=true" width="48%" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavKanna&" width="48%" />  
 </p>  
 
----
-
-## 🎤 Talks & Community  
-
-- **Microsoft Reactor Toronto**: Hosted workshops on **Azure & cloud automation**.  
-- **Hack the North**: Developed **AI-driven health applications** at Canada’s largest hackathon.  
-- **UofT Web Dev Club**: Led **React Native & full-stack workshops** for students & professionals.  
+<p align="center">  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MadhavKanna&theme=radical" width="48%" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MadhavKanna&theme=radical&utcOffset=8" width="48%" />  
+</p>  
 
 ---
 
@@ -61,7 +58,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MadhavKT-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/madhav-kt)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-MadhavThenappan.com-green?style=flat-square)](https://madhav-thenappan.com/)  
-📧 **Email:** madhav.thenappan@mail.utoronto.ca  
+📧 **Email:** madhavkanna3141@gmail.com  
 
 ---
 
