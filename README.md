@@ -5,6 +5,11 @@
 ---
 
 ## 🌟 Featured Projects  
+### 🎵 Jive.ai
+[🔗 GitHub Repo](https://github.com/MadhavKanna/Jive.ai) | [🎮 Generate Music Here](https://jive-nsbe.firebaseapp.com)  
+- Explore instrumental music in the interpolation of frequency range between two chord-key pairs.
+- Music generated using 2 step Deep learning inference - RNN(Recurrent Neural Nets) and VAE(Variaional Autoencoders - for coherent and human-sounding instrumentals
+- Hosted using firebase hosting, and cloud functions for model hosting and inference.
 
 ### 🎮 MBed Block Bash  
 [🔗 GitHub Repo](https://github.com/MadhavKanna/mbed-block-bash) | [🎥 Demo](https://drive.google.com/file/d/1IO_CwTTaWIPtBEVNt1qmwazo2Qx913Tb/view?usp=sharing)  
