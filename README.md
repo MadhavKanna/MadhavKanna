@@ -8,7 +8,7 @@
 
 ### 🎮 MBed Block Bash  
 [🔗 GitHub Repo](https://github.com/MadhavKanna/mbed-block-bash) | [🎥 Demo](https://drive.google.com/file/d/1IO_CwTTaWIPtBEVNt1qmwazo2Qx913Tb/view?usp=sharing)  
-- **Multiplayer Tetris game** built using **C++, Linux, and the Mbed Firmware Framework**.  
+- **Multiplayer Gaming Console + Controllers** built using **C++, Linux, and the Mbed Firmware Framework** to play video games.  
 - Utilizes **Time of Flight sensors, Accelerometer, Gyroscope, Buttons, and Bluetooth Low Energy** for wireless controllers.  
 - Developed a **Wi-Fi-based game server** to support multiple controllers with seamless pairing.  
 
